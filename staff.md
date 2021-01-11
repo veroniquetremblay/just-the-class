@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Enseignante
+description: Enseignante du cours STT7335
 ---
 
 # Staff
